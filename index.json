@@ -46,6 +46,31 @@
         "episodeCount":16
         "seasons":1
         "releaseDate":"13 July 2019"
+    },
+{
+    "id": 3,
+        "name":"Tomorrow"
+        "imdbRating": 7.8,
+        "description":"Made half-human and half-spirit by accident, a young man is employed by a company of grim reapers in the underworld to carry out special missions."
+        "genre":["Action","Comdey" , "Drama"],
+        "platform":["Netflix"],
+        "trailer":"https://www.youtube.com/watch?v=zhmxDgBxGRk",
+        "casting": {
+            "actors": [
+              "Kim Hee-Seon",
+              "Ro Woon",
+              "Lee Soo-Hyuk",
+              "Yun Ji-On",
+              "	Kim Hae-Sook",
+              "Kim Nu-Ri",
+              "Moon Seo-Yoon"
+            ],
+            "director": ["Kim Tae-yoon"]
+        },
+        "poster":"https://www.imdb.com/title/tt18926162/mediaviewer/rm1106451969/?ref_=tt_ov_i",
+        "episodeCount":16
+        "seasons":1
+        "releaseDate":"April 1, 2022"
     }
 ]
  
